@@ -1,0 +1,3 @@
+# fichier collabaratif 
+
+# faire .gitegnore 
